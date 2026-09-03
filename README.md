@@ -95,13 +95,4 @@ Recipe_app/
 
 Copyright © 2026 Tajamul Wani. All rights reserved.
 
-## Contact & Social
-
-- Email: [thetj4054@gmail.com](mailto:thetj4054@gmail.com)
-- LinkedIn: [Tajamul Wani](https://www.linkedin.com/in/tajamul-wani/)
-- GitHub: [TAJAMUL11](https://github.com/TAJAMUL11)
-
----
-
-**Last Updated**: March 2026
 
